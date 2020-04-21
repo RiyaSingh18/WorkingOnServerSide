@@ -1,0 +1,3 @@
+1 nodejs is a server side Language.
+2 Asynchronous approach
+3 Modular approach
